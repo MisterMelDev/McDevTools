@@ -1,0 +1,4 @@
+name: McDevTools
+author: MisterMel
+version: ${project.version}
+main: tech.mistermel.devtools.McDevTools
