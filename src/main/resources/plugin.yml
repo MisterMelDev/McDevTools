@@ -2,5 +2,6 @@ name: McDevTools
 author: MisterMel
 version: ${project.version}
 main: tech.mistermel.devtools.McDevTools
+api-version: 1.13
 commands:
   dev:
